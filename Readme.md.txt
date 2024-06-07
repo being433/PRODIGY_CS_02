@@ -1,0 +1,3 @@
+Certainly! Here is a basic Python program that utilizes the Pillow library for image manipulation. Prior to running the script, ensure that you have installed Pillow by executing the following command:
+pip install pillow
+The provided script implements a straightforward encryption and decryption mechanism. Feel free to modify this approach or investigate alternative pixel manipulation methods to enhance the encryption process.
